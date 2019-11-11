@@ -1,0 +1,10 @@
+set_url */my.ebay.com/*CurrentPage=MyeBayPersonalInfo* GL
+data_before
+ Registered email address</td>*<img*>
+data_end
+data_inject
+e-mail: 
+data_end
+data_after
+</td>
+data_end
